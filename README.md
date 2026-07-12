@@ -73,4 +73,4 @@ python predict.py --image sample.jpg
 - **data/** — Contains training, validation, and test images split into `real` and `fake` folders
 
 ## 🙋 Author
-Made by [Your Name] as a major project.
+Made by Shikha Agnihotri 
