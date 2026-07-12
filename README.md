@@ -3,7 +3,7 @@
 DeepShield is a deep learning-based system that detects whether an image is **real** or **AI-generated/fake** (deepfake detection), built using OpenCV and a trained image classification model.
 
 ## 📌 Project Overview
-This project was built as a major project to explore how deep learning models can be used to distinguish real photographs from AI-generated or manipulated images.
+This project was built to explore how deep learning models can be used to distinguish real photographs from AI-generated or manipulated images.
 
 ## 🗂️ Project Structure
 ```
@@ -64,9 +64,6 @@ python train.py
 ```bash
 python predict.py --image sample.jpg
 ```
-
-## 📊 Results
-[Add your model accuracy, confusion matrix, or sample output screenshots here]
 
 ## 📖 What Each File Does
 - **train.py** — Loads the dataset, builds and trains the classification model, saves it to `models2/`
