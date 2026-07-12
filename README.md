@@ -5,9 +5,10 @@ DeepShield is a deep learning-based system that detects whether an image is **re
 ## 📌 Project Overview
 This project was built as a major project to explore how deep learning models can be used to distinguish real photographs from AI-generated or manipulated images.
 
-## 🗂️ Project Structure 
+## 🗂️ Project Structure
+```
 DeepShield/
-├── data/                # Dataset (not included, see below)
+├── data/
 │   ├── train/
 │   │   ├── fake/
 │   │   └── real/
@@ -17,13 +18,14 @@ DeepShield/
 │   └── test/
 │       ├── fake/
 │       └── real/
-├── models2/              # Saved trained model(s)
+├── models2/
 ├── notebooks/
-│   └── image_basics.ipynb   # Exploratory notebook for image preprocessing basics
-├── train.py               # Script to train the classification model
-├── predict.py              # Script to run predictions on new images
-├── sample.jpg               # Example test image
+│   └── image_basics.ipynb
+├── train.py
+├── predict.py
+├── sample.jpg
 └── README.md
+```
 
 ## ⚙️ Tech Stack
 - Python
