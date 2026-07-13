@@ -30,7 +30,7 @@ DeepShield/
 ## ⚙️ Tech Stack
 - Python
 - OpenCV
-- [add your ML framework here, e.g. TensorFlow / PyTorch / scikit-learn]
+- TensorFlow 
 - Jupyter Notebook
 
 ## 🚀 How to Run
